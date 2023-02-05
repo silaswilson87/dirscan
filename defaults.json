@@ -1,0 +1,11 @@
+{
+    "new_directory": "new-path",
+    "start_directory": "C:\\Users\\silas\\Desktop\\pythonDirectoryScanner\\picturetest",
+    "picture_extensions": [
+        "jpg",
+        "png",
+        "tif",
+        "tiff",
+        "arw"
+    ]
+}
